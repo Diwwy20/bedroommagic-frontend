@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070697713363",
+    "project_id": "bedroommagic-d7d70",
+    "storage_bucket": "bedroommagic-d7d70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070697713363:android:f6b8d901ae9c324c2c0e26",
+        "android_client_info": {
+          "package_name": "com.bedroommagic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOB8pjZoyJ6pzpT-ZOD-8irV7acOW3STs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
